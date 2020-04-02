@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-An_expression_with_large_numbers_main" target="11" />
+      <module name="Problems-An_expression_with_large_numbers_test" target="11" />
+      <module name="Problems-Boxes_are_not_just_objects!_main" target="11" />
+      <module name="Problems-Boxes_are_not_just_objects!_test" target="11" />
+      <module name="Problems-Check_IP_address_main" target="11" />
+      <module name="Problems-Check_IP_address_test" target="11" />
+      <module name="Problems-Comparing_numbers_main" target="11" />
+      <module name="Problems-Comparing_numbers_test" target="11" />
+      <module name="Problems-Creating_a_set_main" target="11" />
+      <module name="Problems-Creating_a_set_test" target="11" />
+      <module name="Problems-Creating_queue_main" target="11" />
+      <module name="Problems-Creating_queue_test" target="11" />
+      <module name="Problems-Displaying_pairs_main" target="11" />
+      <module name="Problems-Displaying_pairs_test" target="11" />
+      <module name="Problems-Double_factorial_main" target="11" />
+      <module name="Problems-Double_factorial_test" target="11" />
+      <module name="Problems-Even_numbers_go_first_main" target="11" />
+      <module name="Problems-Even_numbers_go_first_test" target="11" />
+      <module name="Problems-Find_a_word_with_a_given_length_main" target="11" />
+      <module name="Problems-Find_a_word_with_a_given_length_test" target="11" />
+      <module name="Problems-Find_mistake_main" target="11" />
+      <module name="Problems-Find_mistake_test" target="11" />
+      <module name="Problems-From_Double_to_Integer_main" target="11" />
+      <module name="Problems-From_Double_to_Integer_test" target="11" />
+      <module name="Problems-Illegal_identifiers_main" target="11" />
+      <module name="Problems-Illegal_identifiers_test" target="11" />
+      <module name="Problems-In_the_middle_of_a_word_main" target="11" />
+      <module name="Problems-In_the_middle_of_a_word_test" target="11" />
+      <module name="Problems-Multiset_main" target="11" />
+      <module name="Problems-Multiset_test" target="11" />
+      <module name="Problems-Number_parsing_main" target="11" />
+      <module name="Problems-Number_parsing_test" target="11" />
+      <module name="Problems-Only_true_or_false_main" target="11" />
+      <module name="Problems-Only_true_or_false_test" target="11" />
+      <module name="Problems-Output_elements_main" target="11" />
+      <module name="Problems-Output_elements_test" target="11" />
+      <module name="Problems-Pastry_packing_optimization_main" target="11" />
+      <module name="Problems-Pastry_packing_optimization_test" target="11" />
+      <module name="Problems-Publication_and_its_subclasses_main" target="11" />
+      <module name="Problems-Publication_and_its_subclasses_test" target="11" />
+      <module name="Problems-Publications_main" target="11" />
+      <module name="Problems-Publications_test" target="11" />
+      <module name="Problems-Remove_comments_main" target="11" />
+      <module name="Problems-Remove_comments_test" target="11" />
+      <module name="Problems-Remove_extra_spaces_main" target="11" />
+      <module name="Problems-Remove_extra_spaces_test" target="11" />
+      <module name="Problems-Remove_HTML_tags_main" target="11" />
+      <module name="Problems-Remove_HTML_tags_test" target="11" />
+      <module name="Problems-Saying_animals_main" target="11" />
+      <module name="Problems-Saying_animals_test" target="11" />
+      <module name="Problems-Shapes_area_main" target="11" />
+      <module name="Problems-Shapes_area_test" target="11" />
+      <module name="Problems-Spell_checker_main" target="11" />
+      <module name="Problems-Spell_checker_test" target="11" />
+      <module name="Problems-Substitution_cipher_main" target="11" />
+      <module name="Problems-Substitution_cipher_test" target="11" />
+      <module name="Problems-The_LIFO_principle_in_action_main" target="11" />
+      <module name="Problems-The_LIFO_principle_in_action_test" target="11" />
+      <module name="Problems-Vehicle_registration_number_main" target="11" />
+      <module name="Problems-Vehicle_registration_number_test" target="11" />
+      <module name="Smart_Calculator-task_main" target="11" />
+      <module name="Smart_Calculator-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
